@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>camera.png</file>
+        <file>crop.png</file>
+        <file>exit.png</file>
+        <file>gallery.png</file>
+        <file>redo.png</file>
+        <file>reset.png</file>
+        <file>rotateleft.png</file>
+        <file>rotateright.png</file>
+        <file>save.png</file>
+        <file>undo.png</file>
+        <file>zoom.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>open.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
